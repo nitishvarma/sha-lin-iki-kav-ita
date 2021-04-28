@@ -3,7 +3,9 @@
   "site_title": "Shalini ke bol",
   "site_description": "Messages from the heart",
   "site_keywords": [
-    "poem"
+    {
+      "keyword": "poem"
+    }
   ],
   "posts_per_page": 5,
   "twitter_account": "@shalini18841261",
