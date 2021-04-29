@@ -7,7 +7,7 @@
       "keyword": "poem"
     }
   ],
-  "posts_per_page": 5,
+  "posts_per_page": 100,
   "twitter_account": "@shalini18841261",
   "github_account": "nitishvarma"
 }
